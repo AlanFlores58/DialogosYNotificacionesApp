@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DialogosYNotificacionesApp</string>
+    
+    <array name="opciones_lista">
+        <item>Dialogo de alerta</item>
+        <item>Dialogo de opciones</item>
+        <item>Dialogo personalizado</item>
+        <item>Dialogo de progreso</item>
+        <item>Notificacion</item>
+        <item>Toast simple</item>
+        <item>Toast personalizado</item>
+    </array>
+</resources>
